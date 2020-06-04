@@ -1,2 +1,2 @@
-# biostatistics
+# Biostatistics
 Sharing my material
