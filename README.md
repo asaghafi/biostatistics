@@ -5,4 +5,4 @@ Biostatitics is a general education course and knowledge of the discussed subjec
 
 If you're a student or seeker of knowledge, dive in and have fun!
 
-If you're an instructor, feel free to use the material on your course, please don't remove my name and credential from the first page though, you can add yours next to it, that's cool with me ;)
+If you're an instructor, feel free to use the material on your course, please don't remove my name and credential from the first page though, you can add yours next to it, that's totally cool with me ;)
