@@ -17,7 +17,7 @@ Data Science Program Director
 President of AI Global Consulting in Geosciences and Data Science, LLC  
 Vice-President of International Affairs at IFNA  
 
-01 Ch1 Part 1 Intro to BioStatistics  
+[01 Ch1 Part 1 Intro to BioStatistics](https://github.com/asaghafi/biostatistics/blob/master/01%20Ch1%20Part%201%20Intro%20to%20BioStatistics.pptx?raw=true)  
 02 Ch1 Part 2 Sampling and Design  
 03 Ch2 Part 1 Graphical Representation  
 04 Ch2 Part 2 Graphical Representation  
