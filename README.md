@@ -28,7 +28,7 @@ Vice-President of International Affairs at IFNA
 07 Ch2 Part 5 Spread Measures  
 08 Ch3 Part 1 Combinatorics  
 09 Ch3 Part 2 Sets and Set Operations  
-[10 Ch3 Part 3 Sample Space and Probability](https://github.com/asaghafi/biostatistics/blob/master/10%20Ch3%20Part%203%20Sample%20Space%20and%20Probability.pptx?raw=true)  
+[10 Ch3 Part 3 Sample Space and Probability](https://github.com/asaghafi/biostatistics/blob/master/10%20Ch3%20Part%203%20Sample%20Space%20and%20Probability.pptx?raw=true) [Sample Space & Events](https://youtu.be/qO-fqZnOwOM) [Probability Definition](https://youtu.be/ka-I1dElPvw)
 11 Ch3 Part 4 Conditional Probability  
 12 Ch4 Part 1 Discrete Distributions  
 13 Ch4 Part 2 Binomial Distribution  
@@ -38,7 +38,7 @@ Vice-President of International Affairs at IFNA
 17 Ch6 Part 1 Confidence Intervals  
 18 Ch6 Part 2 Confidence Intervals  
 19 Ch6 Part 3 Confidence Intervals  
-20 Ch7 Part 1 Testing Statistical Hypothesis  
+[20 Ch7 Part 1 Testing Statistical Hypothesis](https://github.com/asaghafi/biostatistics/blob/master/20%20Ch7%20Part%201%20Testing%20Statistical%20Hypothesis.pptx?raw=true) [Null & Alternate](https://youtu.be/NVoKPuID_qw) [Type I & II Errors](https://youtu.be/_UGRTxRhlcA) [Alpha & Beta with Error Plot](https://youtu.be/M2jMwiBDdp0)
 21 Ch7 Part 2 Testing Statistical Hypothesis  
 22 Ch7 Part 3 Testing Statistical Hypothesis  
 23 Ch7 Part 4 Sample Proportion Inference  
