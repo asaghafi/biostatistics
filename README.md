@@ -28,7 +28,7 @@ Vice-President of International Affairs at IFNA
 07 Ch2 Part 5 Spread Measures  
 08 Ch3 Part 1 Combinatorics  
 09 Ch3 Part 2 Sets and Set Operations  
-10 Ch3 Part 3 Sample Space and Probability  
+[10 Ch3 Part 3 Sample Space and Probability](https://github.com/asaghafi/biostatistics/blob/master/10%20Ch3%20Part%203%20Sample%20Space%20and%20Probability.pptx?raw=true)  
 11 Ch3 Part 4 Conditional Probability  
 12 Ch4 Part 1 Discrete Distributions  
 13 Ch4 Part 2 Binomial Distribution  
