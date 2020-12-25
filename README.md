@@ -47,3 +47,5 @@ Vice-President of International Affairs at IFNA
 24 Ch8 Part 1 Paired Samples T-Test  
 25 Ch8 Part 2 Independent Samples T-Test  
 26 Ch9 Regression Summary  
+
+Check out all the PowerPoint slides and lecture videos on my website: [AbolfazlSaghafi.info](http://abolfazlsaghafi.info/?section=4)
